@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* background color*/
 body {
     background-color: #d9dcd6;
 }
 
+/* header styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,6 +39,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* section and article styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -184,6 +187,7 @@ p {
     font-size: 36px;
 }
 
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
